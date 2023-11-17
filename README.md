@@ -27,9 +27,9 @@
     php artisan key:generate
     ```
 7. To start the PHP built-in server
-  ```
-  php artisan serve --port=8080
-  ```
+    ```
+    php artisan serve --port=8080
+    ```
 
 ## Tech Stack
 
