@@ -1,6 +1,6 @@
 ## Table of Contents
 
-- [Setup or Installation](#setup-or-I\installation)
+- [Setup or Installation](#setup-or-installation)
 - [Tech Stack](#tech-stack)
 
 ## Setup or Installation
